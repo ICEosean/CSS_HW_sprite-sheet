@@ -1,0 +1,12 @@
+.car {
+    display: inline-block;
+    width: 67px;
+    height: 32px;
+    background-image: url(../images/car.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+
+.car:hover {
+    background-position: left bottom;
+}
